@@ -1,1 +1,1 @@
-go visit xn--lckwg.net
+go visit [the website](https://xn--lckwg.net)
